@@ -2,20 +2,20 @@ Descrever a fase de elaboração/Planejamento do projeto GPP/MDS.
 
 # Fase de Elaboração (RUP)/ Planejamento (PMBok)
 
-<p align="justify">Em um mapeamento direto das fases do RUP com relação aos grupos do PMBok, nota-se que ambos são equivalentes, como é observado no caso da fase de elaboração do RUP ser correspondente ao grupo de processos de planejamento do PMBok. Enquanto o PMBok possui um foco maior em sua etapa de planejamento, o RUP não cobre todos os aspectos de gerência de projetos de <i>software</i>, como recursos humanos, o que não quer dizer que não que dizer que existam algumas atividades técnicas relacionados ao próprio produto de <i>software</i> desempenhadas por um gerente de projeto.</p>
+<p align="justify">Ao realizar um mapeamento direto das fases do RUP com relação aos grupos do PMBok, nota-se que há equivalência, um exemplo disso é a relação entre a fase de elaboração do RUP e o grupo de processos de planejamento do PMBok. Enquanto o PMBok possui um foco maior na etapa de planejamento, o RUP não cobre todos os aspectos de gerência de projetos de <i>software</i>, como recursos humanos, o que não quer dizer que existam algumas atividades técnicas relacionados ao próprio produto de <i>software</i> desempenhadas por um gerente de projeto.</p>
 
 ### Fase de Elaboração (RUP)
 
-<p align="justify">Segundo o RUP, o propósito da fase de elaboração é analisar o domínio do problema, estabelecer uma base sólida de arquitetura, coletar os requisitos, desenvolver um plano para o projeto e eliminar os elementos de maior risco do projeto, resolvendo questões como "O plano do projeto é confiável?" e "Os custos são admissíveis", em outras palavras, esta fase tem por finalidade eliminar os principais riscos e definir uma arquitetura estável, que atenda os requisitos definidos para o projeto (ou seja, a arquitetura, os requisitos e os planos são considerados estáveis o suficiente). Assim, será possível determinar os custos e o cronograma do projeto com maior precisão.</p>
+<p align="justify">Segundo o RUP, o propósito da fase de elaboração é analisar o domínio do problema, estabelecer uma base sólida de arquitetura, coletar os requisitos, desenvolver um plano para o projeto e eliminar os elementos de maior risco do projeto, resolvendo questões como "O plano do projeto é confiável?" e "Os custos são admissíveis". Em outras palavras, esta fase tem por finalidade eliminar os principais riscos e definir uma arquitetura estável, que atenda os requisitos definidos para o projeto (ou seja, a arquitetura, os requisitos e os planos são considerados estáveis o suficiente). Assim, será possível determinar os custos e o cronograma do projeto com maior precisão.</p>
 
 ### Planejamento (PMBok)
 
-<p align="justify">Segundo o próprio PMBok, o grupo de processos de planejamento consiste dos processos realizados para estabelecer o escopo total do esforço empregado no projeto, definir e refinar os objetivos e desenvolver o curso de ação necessário para alcançar esses objetivos. Ou seja, a fase de planejamento definirá mais precisamente o escopo, custo e prazo do projeto, assim como estabelecer uma organização das atividades e fornecer um controle do projeto, no qual será demandado caso venham a ocorrer mudanças significativas durante o projeto, como pode ser visto na figura abaixo.</p>
+<p align="justify">Segundo o próprio PMBok, o grupo de processos de planejamento consiste nos processos realizados para estabelecer o escopo total do esforço empregado no projeto, definir e refinar os objetivos e desenvolver o curso de ação necessário para alcançar esses objetivos. Ou seja, a fase de planejamento do projeto definirá mais precisamente o escopo, custo e prazo deste, estabelecendo uma organização das atividades e controle do projeto, que será demandado caso ocorram mudanças significativas durante a execução, como pode ser visto na figura abaixo.</p>
 
 ![Planejamento](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/Planejamento.png)
 
 Representação da fase de Planejamento, contendo as atividades do PMBok de acordo com:
-[Fonte: Ricardo Vargas](http://www.ricardo-vargas.com/pt/videos/1) 
+[Fonte: Ricardo Vargas](http://www.ricardo-vargas.com/pt/videos/1)
 
 ##  Quais os processos do PMBok são executados - ilustre
 
@@ -29,7 +29,7 @@ Segundo o Guia PMBOK®, desenvolver o plano de gerenciamento de projeto é o pro
 Planejar o gerenciamento do escopo define e documenta como a equipe do projeto definirá, validará e controlará o escopo.
    * Coletar os requisitos
 
-Coletar os requisitos é o o processo de definir e documentar as necessidades das partes interessadas para atingir os objetivos dos projetos. Os requisitos devem ser obtidos, analisados e registrados em detalhes suficientes para serem medidos durante a execução do projeto além disso eles servem como base para a elaboração da EAP, assim como o planejamento de custos, tempo e qualidade.
+Coletar os requisitos é o o processo de definir e documentar as necessidades das partes interessadas para atingir os objetivos do projeto. Os requisitos devem ser obtidos, analisados e registrados em detalhes suficientes para serem medidos durante a execução do projeto, além disso, eles servem como base para a elaboração da EAP, assim como o planejamento de custos, tempo e qualidade.
    * Definir o escopo
 
 Definir o Escopo é desenvolver uma descrição detalhada do projeto e do produto.
@@ -42,7 +42,7 @@ Criar a EAP é o processo de subdividir os produtos do projeto e o trabalho do p
 Planejar o gerenciamento do cronograma estabelece as políticas, procedimentos e documentação para planejar, desenvolver, gerenciar, executar e controlar o cronograma do projeto.
    * Definir as Atividades
 
-Segundo o Guia PMBOK®, Definir as atividades é o processo de identificação das ações específicas a serem realizadas para produzir as entregas do projeto.
+Segundo o Guia PMBOK®, definir as atividades é o processo de identificação das ações específicas a serem realizadas para produzir as entregas do projeto.
    * Sequenciar as Atividades
 
 Sequenciar as Atividades tem como objetivo, identificar e documentar as relações de dependência entre as atividades.
@@ -71,7 +71,7 @@ Determinar o orçamento agrega os custos estimados das atividades para estabelec
    * Planejar o gerenciamento da qualidade
 
 Identificar os requisitos e/ou padrões da qualidade relevantes ao projeto e suas entregas e determinar como satisfazê-los.
-Garantir que toda atividade do projeto é aderente com as políticas e padrões da qualidade da empresa e que todas entregas estão em conformidade com seus critérios de aceitação.
+Garantir que toda atividade do projeto é aderente às políticas e padrões da qualidade da empresa e que todas entregas estão em conformidade com seus critérios de aceitação.
 
 * **Gerenciamento dos recursos humanos do projeto**
    * Planejar o gerenciamento dos recursos humanos
@@ -135,7 +135,7 @@ ______________________________________________
 ## Quais os processos do RUP são executados - ilustre
 
 ## Detalhe as atividades realizadas por MDS nessa fase
-<p align="justify">A principal atividade realizada por MDS nesta fase é a elaboração do documento de arquitetura, este que será fundamental para as próximas fases e continuidade do projeto, pois assegurando que a arquitetura e os requisitos estejam estáveis a fase de construção será facilitada. E para garantir isso pode-se utilizar de protótipos diretamente para elicitar requisitos significativos do sistema.
+<p align="justify">A principal atividade realizada por MDS nesta fase é a elaboração do documento de arquitetura que é fundamental para as próximas fases e continuidade do projeto, pois assegurando que a arquitetura e os requisitos estejam estáveis, a fase de construção será facilitada. E para garantir isso pode-se utilizar de protótipos diretamente para elicitar requisitos significativos do sistema.
 
 ## Quais as disciplinas no RUP são executadas
 
@@ -158,13 +158,13 @@ Os principais artefatos gerados nesta fase foram:
 
 <p align="justify">Desenvolvimento e concepção do documento de caso de uso, que é o documento que consiste em descrever o sistema através da diagramação do sistema. Neste documento é onde ocorre a identificação dos atores do sistema e quais são as suas possíveis ações dentro do sistema. Com a construção deste documento a visualização do sistema fica mais clara para a modelagem do sistema, facilitando o levantamento de requisitos.</p>
 
-<p align="justify">Desenvolvimento e concepção do documento de especificação suplementar, que é um documento que tem a principal finalidade de levantar os requisitos não funcionais que e quais outros requisitos que não possuem relação direta com um caso de uso específico.</p>
+<p align="justify">Desenvolvimento e concepção do documento de especificação suplementar, que é um documento que tem a principal finalidade de levantar os requisitos não funcionais, ou seja, aqueles que não possuem relação direta com um caso de uso específico.</p>
 
 <p align="justify">Desenvolvimento e concepção do documento de especificação de caso de teste, que é um documento que descreve todos os cenários possíveis durante os testes do software e os resultados esperados.</p>
 
 <p align="justify">Opcionalmente, um manual de usuário preliminar, um documento o qual auxiliará o usuário na utilização do sistema. </p>
 
-## Quais os templates usados para gerar os artefatos do PMbok 
+## Quais os templates usados para gerar os artefatos do PMbok
 
 * [Termo de Abertura](http://www.easybok.com.br/downloads/termo-de-abertura-do-projeto-5-ed/)
 * [Plano de Gerenciamento do Projeto](http://www.easybok.com.br/downloads/plano-de-gerenciamento-do-projeto-5ed/)
@@ -180,7 +180,7 @@ Os principais artefatos gerados nesta fase foram:
 
 ## Quais os templates usados para gerar os artefatos do RUP?
 
-* <p align="justify">Os templates servem como um ‘modelo’ do artefato a ser usado em sua criação, sendo assim ligados à ferramenta que será usada. Por exemplo, um template do Microsoft Word pode ser usado como gabarito de um artefato que seja um documento ou relatório sendo que um relatório consiste em informações que são extraídas de um ou vários artefatos. 
+* <p align="justify">Os templates servem como um ‘modelo’ do artefato a ser usado em sua criação, sendo assim ligados à ferramenta que será usada. Por exemplo, um template do Microsoft Word pode ser usado como gabarito de um artefato que seja um documento ou relatório sendo que um relatório consiste em informações que são extraídas de um ou vários artefatos.
 
 ## Quais os papéis desempenhados por GPP nessa fase? - descreva
 
@@ -189,12 +189,12 @@ Os principais artefatos gerados nesta fase foram:
  * Implementação do processo
  * Melhoria do processo
  * Gerenciar mudanças organizacionais, aplicando engenharia de processos.
- * Configurar Ambiente de desenvolvimento 
+ * Configurar Ambiente de desenvolvimento
  * Gerenciamento de Riscos.
 
-## Quais os papéis desempenhados por MDS nessa fase? descreva 
+## Quais os papéis desempenhados por MDS nessa fase? descreva
 ### Arquiteto de <i>Software</i>
-<p align="justify"> A principal função de um arquiteto de <i>software</i> é a definição da arquitetura que será usada no projeto, em MDS a arquitetura é pré-definida, <i>MVC(Model-View-Controller)</i>. No entanto outros fatores, como restrições, diagramas UML,metas arquiteturais e de desempenho, também fazem parte de suas responsabilidades. Essas e outras especificações devem estar descritas no Documento de Arquitetura.</p>
+<p align="justify"> A principal função de um arquiteto de <i>software</i> é a definição da arquitetura que será usada no projeto, em MDS a arquitetura é pré-definida, <i>MVC(Model-View-Controller)</i>. No entanto, outros fatores como restrições, diagramas UML,metas arquiteturais e de desempenho, também fazem parte de suas responsabilidades. Essas e outras especificações devem estar descritas no Documento de Arquitetura.</p>
 
    * Atividades: Priorizar casos de uso, análise arquitetural e requisitos.
    * Artefato: Documento de Arquitetura de <i>Software</i>
